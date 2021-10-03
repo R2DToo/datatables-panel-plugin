@@ -1,0 +1,1 @@
+# Grafana Datatables Panel Plugin

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "Datatables Panel",
+  "id": "stillroutleydev-datatables-panel",
+  "info": {
+    "description": "",
+    "author": {
+      "name": "Braden Still-Routley",
+      "url": "https://stillroutley.dev/"
+    },
+    "keywords": [
+      "datatables",
+      "panel"
+    ],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://stillroutley.dev/"
+      },
+      {
+        "name": "GitHub Repo",
+        "url": "https://stillroutley.dev/"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/grafana/grafana-starter-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=7.0.0",
+    "plugins": []
+  }
+}
